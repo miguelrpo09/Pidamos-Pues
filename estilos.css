@@ -1,0 +1,42 @@
+#button_register{
+    border-radius: 20px;
+    padding: 10px 7px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #ecb84a;
+    margin: 50px;
+    width: 200px;
+  }
+
+#button_registro{
+    border-radius: 20px;
+    padding: 10px 7px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #ecb84a;
+    margin: 50px;
+    width: 100px;
+  }
+  
+  #logonav {
+    display: block;
+    margin-left: 10px;
+    margin-right: auto;
+    width: 50px;
+  }
+  #form{
+      text-align: center;
+      padding-top: 5%;
+      padding-left: 10%;
+      padding-right: 10%;
+  }
+  input{
+      margin-top: 10px;
+      padding-left: 10px;  
+  }
+  #formulario{
+      margin-left: 10%;
+      margin-right: 10%;
+  }
+ 
+  
