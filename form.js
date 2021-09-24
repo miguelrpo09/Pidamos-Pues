@@ -16,9 +16,6 @@ document.addEventListener("DOMContentLoaded", function() {
         }else if(string.length >= 12 || /^\s+$/.test(string)){
             alert('Nombre de usuario no puede tener mas de 12 caracteres!');
             return false;
-        }else if( ){
-            alert('Nombre de usuario !');
-            return false;
         }
         return false;
     }
